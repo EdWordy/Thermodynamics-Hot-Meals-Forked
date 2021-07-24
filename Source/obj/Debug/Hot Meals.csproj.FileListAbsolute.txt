@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Thermodynamics - Hot Meals\1.1\Assemblies\HotMeals.dll
+C:\Users\Taylor\Desktop\Thermodynamics Hot Meals Fork\Source\obj\Debug\Hot Meals.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Thermodynamics Hot Meals Fork\Source\obj\Debug\Hot Meals.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\Thermodynamics Hot Meals Fork\Source\obj\Debug\Hot Meals.csproj.CopyComplete
+C:\Users\Taylor\Desktop\Thermodynamics Hot Meals Fork\Source\obj\Debug\HotMeals.dll
+F:\Games\SteamLibrary\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Thermodynamics - Hot Meals\1.1\Assemblies\HotMeals.dll
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Thermodynamics Hot Meals Fork\Source\obj\Debug\Hot Meals.csproj.AssemblyReference.cache
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Thermodynamics Hot Meals Fork\Source\obj\Debug\Hot Meals.csproj.CoreCompileInputs.cache
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Thermodynamics Hot Meals Fork\Source\obj\Debug\Hot Meals.csproj.CopyComplete
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Thermodynamics Hot Meals Fork\Source\obj\Debug\HotMeals.dll
