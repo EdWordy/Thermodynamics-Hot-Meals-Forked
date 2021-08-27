@@ -44,7 +44,8 @@ namespace DHotMeals
             "RC2_VegetablesRaw",
             "PlantFoodRaw",
             "MeatRaw",
-            "RC2_FoodProcessed"
+            "RC2_FoodProcessed",
+            "Drugs"
         };
 
         public static IEnumerable<ThingCategoryDef> AllCats()
